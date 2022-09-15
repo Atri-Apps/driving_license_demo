@@ -1,0 +1,27 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/": {
+      "name": "Home"
+    },
+    "/viewtest": {
+      "name": "viewtest"
+    },
+    "/newtest": {
+      "name": "newtest"
+    },
+    "/newtestresult": {
+      "name": "newtestresult"
+    },
+    "/login": {
+      "name": "login"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "../assets"
+  },
+  "organizationName": "Atri-Apps",
+  "projectName": "driving_license_demo"
+}
